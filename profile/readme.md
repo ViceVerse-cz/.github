@@ -5,3 +5,7 @@ We are a Czech software and web development company that focuses on creating inn
 Most of our projects are closed source, but we intent to have a few open source projects that will be listed on our GitHub page.
 
 Feel free to contact us if you have any questions or would like to discuss a project.
+
+**E-mail:** <contact@viceverse.cz> <br>
+**Website:** <https://viceverse.cz><br> 
+**Phone:** +420 725 996 964
