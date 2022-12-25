@@ -2,9 +2,7 @@
 
 We are a Czech software and web development company that specializes in creating innovative and cutting-edge solutions for our clients. Our team of highly skilled and experienced developers is always up for a challenge and ready to bring your ideas to life.
 
-Most of our projects are closed source, but we also have a few open source projects available on our GitHub page for anyone to use and contribute to.
-
-If you have a project in mind, or if you have any questions, don't hesitate to contact us. We would love to hear from you and discuss how we can help bring your vision to fruition.
+If you have any questions or want to discuss a potential project, don't hesitate to reach out to us. We are always happy to chat and see how we can help bring your vision to life.
 
 **E-mail:** <contact@viceverse.cz> <br>
 **Website:** <https://viceverse.cz><br> 
