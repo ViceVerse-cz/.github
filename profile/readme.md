@@ -1,5 +1,4 @@
-![banner](https://github.com/ViceVerse-cz/.github/assets/67194087/613aefda-fde0-4bff-9b87-ca5c51d26e68)
-
+![banner](https://github.com/ViceVerse-cz/.github/assets/67194087/53121397-1499-4c19-9131-7889e7144275)
 
 We are a Czech software and web development company that specializes in creating innovative and cutting-edge solutions for our clients. Our team of highly skilled and experienced developers is always up for a challenge and ready to bring your ideas to life.
 
