@@ -4,6 +4,5 @@ We are a Czech software and web development company that specializes in creating
 
 If you have any questions or want to discuss a potential project, don't hesitate to reach out to us. We are always happy to chat and see how we can help bring your vision to life.
 
-**E-mail:** <contact@viceverse.cz> <br>
-**Website:** <https://viceverse.cz><br> 
+**E-mail:** <dornicakkuba@gmail.com> <br>
 **Phone:** +420 725 996 964
